@@ -12,5 +12,5 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 export default async function CategoryPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params; const category = categories.find((item) => item.slug === slug); if (!category) notFound();
   const posts = getAllPosts().filter((post) => post.category === category.name);
-  return <div className="shell page"><p className="eyebrow">CATEGORY</p><h1>{category.name}</h1><p className="lead">{category.description}</p>{posts.length ? <div className="post-grid">{posts.map((post) => <PostCard key={post.slug} post={post} />)}</div> : <p>このカテゴリーの記事は準備中です。</p>}</div>;
+  return <div className="shell page"><p className="eyebrow">カテゴリー</p><h1>{category.name}</h1><p className="lead">{category.description}</p>{posts.length ? <div className="post-grid">{posts.map((post) => <PostCard key={post.slug} post={post} />)}</div> : <p>このカテゴリーの記事は準備中です。</p>}</div>;
 }
