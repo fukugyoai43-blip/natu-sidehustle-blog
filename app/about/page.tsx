@@ -1,0 +1,3 @@
+import type { Metadata } from "next"; import Link from "next/link";
+export const metadata:Metadata={title:"このブログについて",description:"natuの副業記録の目的と、ブログ・note・Brain・BOOTHなどの役割分担。",alternates:{canonical:"/about"}};
+export default function About(){return <div className="shell page prose"><p className="eyebrow">ABOUT</p><h1>このブログについて</h1><p>「natuの副業記録」は、40代からAI・物販・SNS・デジタル販売に挑戦する過程を、飾らずに残すブログです。</p><h2>このサイトの役割</h2><p>ブログでは体験・実践記録・基本情報を発信し、検索やSNSから読んでもらう入口にします。</p><ul><li>note：深掘りしたノウハウや有料記事</li><li>Brain：体系化した教材・実践マニュアル</li><li>BOOTH：AI画像、素材、テンプレート、PDF、プロンプト</li><li>Gumroad：海外向けデジタル商品</li><li>楽天ROOM：おすすめ商品の紹介</li></ul><p>各サービスの内容や条件は、分かりやすく確認できる形で案内します。</p><Link className="text-link" href="/profile">プロフィールを見る →</Link></div>}

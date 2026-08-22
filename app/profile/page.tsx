@@ -1,0 +1,2 @@
+import type { Metadata } from "next"; export const metadata:Metadata={title:"プロフィール",description:"natuのプロフィールと、このブログで大切にしていること。",alternates:{canonical:"/profile"}};
+export default function Profile(){return <div className="shell page prose"><p className="eyebrow">PROFILE</p><h1>プロフィール</h1><p>natuです。AI、物販、SNS、デジタル販売などを実際に試しながら、副業を少しずつ形にしようとしています。</p><h2>大切にしていること</h2><ul><li>実際にやったことを、自分の言葉で記録する</li><li>うまくいかなかったことも次の改善につなげる</li><li>商品や紹介の内容・条件を分かりやすく伝える</li></ul><p>この文章は <code>app/profile/page.tsx</code> で簡単に更新できます。</p></div>}
