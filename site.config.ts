@@ -5,7 +5,7 @@ export const siteConfig = {
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://natu-sidehustle-blog.vercel.app",
   author: "natu",
   links: {
-    threads: "",
+    threads: "https://www.threads.com/@fukugyo.ai.43",
     x: "https://x.com/fukugyo_ai_43",
     note: "https://note.com/fukugyo_ai_43",
     brain: "",
