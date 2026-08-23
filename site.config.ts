@@ -8,7 +8,7 @@ export const siteConfig = {
     threads: "https://www.threads.com/@fukugyo.ai.43",
     x: "https://x.com/fukugyo_ai_43",
     note: "https://note.com/fukugyo_ai_43",
-    brain: "",
+    brain: "https://brain-market.com/u/fukugyoai43/a/byUjNxYjMgoTZsNWa0JXY",
     booth: "https://fukugyoai43.booth.pm/",
     gumroad: "",
     rakutenRoom: "https://room.rakuten.co.jp/fukugyo.ai.43/items",
