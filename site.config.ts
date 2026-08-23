@@ -11,6 +11,6 @@ export const siteConfig = {
     brain: "",
     booth: "https://fukugyoai43.booth.pm/",
     gumroad: "",
-    rakutenRoom: "",
+    rakutenRoom: "https://room.rakuten.co.jp/fukugyo.ai.43/items",
   },
 } as const;
