@@ -6,10 +6,10 @@ export const siteConfig = {
   author: "natu",
   links: {
     threads: "",
-    x: "",
-    note: "",
+    x: "https://x.com/fukugyo_ai_43",
+    note: "https://note.com/fukugyo_ai_43",
     brain: "",
-    booth: "",
+    booth: "https://fukugyoai43.booth.pm/",
     gumroad: "",
     rakutenRoom: "",
   },
