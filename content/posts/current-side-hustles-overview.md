@@ -8,7 +8,7 @@ tags: ["副業", "AI活用", "物販", "SNS", "デジタル販売"]
 eyecatch: ""
 seoTitle: "今やっている副業を全部まとめてみた｜物販・AI・SNS・デジタル販売"
 seoDescription: "メルカリ物販を中心に、AI・Threads・X・BOOTH・note・Brainなどを実際にどう使っているか、今の状況をまとめました。"
-published: false
+published: true
 featured: false
 experience: true
 ---
