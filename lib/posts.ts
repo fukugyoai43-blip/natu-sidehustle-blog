@@ -19,6 +19,15 @@ function parsePost(fileName: string): Post {
   return { ...(data as Omit<Post, "content">), content: match[2].trim() };
 }
 
+// Draft files begin with "_" so they are never included in public lists.
+// This function is only used for an explicit, no-index preview route.
+export function getDraftPost(fileName: string) {
+  if (!fileName.startsWith("_") || !fileName.endsWith(".md")) return undefined;
+  const filePath = path.join(postsDir, fileName);
+  if (!fs.existsSync(filePath)) return undefined;
+  return parsePost(fileName);
+}
+
 export function getAllPosts(includeDrafts = false) {
   return fs.readdirSync(postsDir).filter((file) => file.endsWith(".md") && !file.startsWith("_")).map(parsePost)
     .filter((post) => includeDrafts || post.published)
