@@ -1,14 +1,14 @@
 ---
 title: "メルカリ副業で実際にやっている仕入れから販売まで｜AIも使うリアルな流れ"
 slug: "mercari-reselling-workflow"
-publishedAt: "2026-08-25"
-updatedAt: "2026-08-25"
+publishedAt: "2026-08-26"
+updatedAt: "2026-08-26"
 category: "物販"
 tags: ["メルカリ", "物販", "仕入れ", "AI活用", "副業"]
 eyecatch: ""
 seoTitle: "メルカリ副業で実際にやっている仕入れから販売まで｜AIも使うリアルな流れ"
 seoDescription: "商品選び、仕入れ判断、写真、出品、価格設定、発送、売れ残ったときの考え方まで、メルカリ物販で実際に行っている流れをまとめました。"
-published: false
+published: true
 featured: false
 experience: true
 ---
