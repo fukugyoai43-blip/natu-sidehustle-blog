@@ -2,13 +2,13 @@
 title: "40代からAIを本気で使い始めて変わったこと｜副業で実際に感じたこと"
 slug: "how-ai-changed-my-workflow"
 publishedAt: "2026-08-27"
-updatedAt: "2026-08-26"
+updatedAt: "2026-08-27"
 category: "AI活用"
 tags: ["AI活用", "ChatGPT", "副業", "40代", "実践記録"]
 eyecatch: ""
 seoTitle: "40代からAIを本気で使い始めて変わったこと｜副業で実際に感じたこと"
 seoDescription: "翻訳から始まったAI活用が、メルカリ物販、SNS、デジタル販売へどう広がったのか。40代で実際に使って感じた変化と、必ず自分で確認する理由を書きます。"
-published: false
+published: true
 featured: false
 experience: true
 ---
