@@ -19,6 +19,15 @@ function parsePost(fileName: string): Post {
   return { ...(data as Omit<Post, "content">), content: match[2].trim() };
 }
 
+// Files beginning with "_" stay out of the public article list.
+// They can be viewed only through an explicit no-index preview page before approval.
+export function getDraftPost(fileName: string) {
+  if (!fileName.startsWith("_") || !fileName.endsWith(".md")) return undefined;
+  const filePath = path.join(postsDir, fileName);
+  if (!fs.existsSync(filePath)) return undefined;
+  return parsePost(fileName);
+}
+
 export function getAllPosts(includeDrafts = false) {
   return fs.readdirSync(postsDir).filter((file) => file.endsWith(".md") && !file.startsWith("_")).map(parsePost)
     .filter((post) => includeDrafts || post.published)
