@@ -8,7 +8,7 @@ tags: ["eBay", "海外販売", "物販", "AI活用", "実践記録"]
 eyecatch: ""
 seoTitle: "メルカリをやりながら、なぜeBayにも挑戦してみたいと思ったのか"
 seoDescription: "日本では価値が低く見える商品でも、海外では需要があるかもしれない。eBayに興味を持ったきっかけ、AIを使って準備していること、今は保留中の現状を実体験として書きます。"
-published: false
+published: true
 featured: false
 experience: true
 ---
