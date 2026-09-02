@@ -8,7 +8,7 @@ tags: ["メルカリ", "物販", "出品", "商品写真", "実践記録"]
 eyecatch: ""
 seoTitle: "メルカリ出品で写真を撮るときに気をつけていること｜傷も隠さず伝える"
 seoDescription: "メルカリ出品で実際に撮っている商品写真のポイントを紹介します。全体、ブランド名、原産国、四隅、傷や汚れまで、特別な撮影スペースがなくても状態を伝えるために意識していることです。"
-published: false
+published: true
 featured: false
 experience: true
 ---
