@@ -8,7 +8,7 @@ tags: ["メルカリ", "物販", "価格設定", "送料", "実践記録"]
 eyecatch: ""
 seoTitle: "メルカリの値段はどう決めている？すぐ売りたい商品と、待って売る商品の考え方"
 seoDescription: "メルカリで出品価格を決めるときに、実際に見ていることをまとめました。手数料や送料、周りの相場、いいねの反応を見ながら、すぐ売る商品と待って売る商品を考えています。"
-published: false
+published: true
 featured: false
 experience: true
 ---
