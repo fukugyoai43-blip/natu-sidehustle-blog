@@ -5,10 +5,10 @@ publishedAt: "2026-09-09"
 updatedAt: "2026-09-08"
 category: "物販"
 tags: ["メルカリ", "物販", "仕入れ", "リサーチ", "実践記録"]
-eyecatch: ""
+eyecatch: "/images/mercari-sourcing-judgment.png"
 seoTitle: "メルカリで仕入れる前に見ていること｜買わなかった商品も次につながる"
 seoDescription: "メルカリ副業で仕入れる前に、今の自分が見ていることをまとめました。安く仕入れて利幅を取れるかを考えながら、買わなかった商品からも相場感や人気を学んでいます。"
-published: false
+published: true
 featured: false
 experience: true
 ---
