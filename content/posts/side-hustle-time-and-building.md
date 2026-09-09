@@ -8,7 +8,7 @@ tags: ["副業", "時間管理", "AI活用", "プログラム作り", "実践記
 eyecatch: "/images/side-hustle-time-and-building.png"
 seoTitle: "働きながら副業を続ける今｜時間をどう使っているか、正直に記録する"
 seoDescription: "仕事終わりに副業へ使っている時間と、AIに頼みながら進めているプログラム作りについての記録です。今は余裕が少ない現実も含め、将来どんな成果を目指しているのかを書きます。"
-published: false
+published: true
 featured: false
 experience: true
 ---
