@@ -25,3 +25,12 @@ export function getAllPosts(includeDrafts = false) {
     .sort((a, b) => +new Date(b.publishedAt) - +new Date(a.publishedAt));
 }
 export const getPost = (slug: string) => getAllPosts().find((post) => post.slug === slug);
+
+// Files beginning with "_" stay out of the public article list.
+// They can be viewed only through an explicit no-index preview page before approval.
+export function getDraftPost(fileName: string) {
+  if (!fileName.startsWith("_") || !fileName.endsWith(".md")) return undefined;
+  const filePath = path.join(postsDir, fileName);
+  if (!fs.existsSync(filePath)) return undefined;
+  return parsePost(fileName);
+}
