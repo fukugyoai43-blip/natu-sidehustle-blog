@@ -8,7 +8,7 @@ tags: ["AI活用", "ChatGPT", "副業", "文章作成", "実践記録"]
 eyecatch: "/images/why-i-still-review-ai-output.png"
 seoTitle: "AIの答えをそのまま使わない理由｜副業で最後に自分が確認していること"
 seoDescription: "副業でAIを使うとき、たたき台や構成は任せつつ、価格や説明文、言葉づかい、表示を最後に自分で確認している理由を実体験からまとめます。"
-published: false
+published: true
 featured: false
 experience: true
 ---
