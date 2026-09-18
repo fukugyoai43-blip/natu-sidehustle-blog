@@ -8,7 +8,7 @@ tags: ["Threads", "SNS", "自動投稿", "集客", "実践記録"]
 eyecatch: "/images/threads-auto-and-manual-posting.png"
 seoTitle: "Threadsを自動投稿してみて分かったこと｜投稿が楽になっても集客は別だった"
 seoDescription: "Threadsの自動投稿を続けて感じた、共感してくれる人とつながるきっかけ、フォロワーが増えるまでの現実、手動投稿との反応の違いを正直に記録します。"
-published: false
+published: true
 featured: false
 experience: true
 ---
