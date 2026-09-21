@@ -8,7 +8,7 @@ tags: ["統合ハブ", "AI活用", "SNS集客", "副業", "実践記録"]
 eyecatch: "/images/integrated-hub-experiment.png"
 seoTitle: "統合ハブを作る理由｜発信と副業を一つにつなげて、試しながら育てたい"
 seoDescription: "統合ハブを作り、AIを使った投稿づくりや複数SNSへの発信、反応と売上のつながりを見ながら改善したい。今の試行錯誤を正直に記録します。"
-published: false
+published: true
 featured: false
 experience: true
 ---
