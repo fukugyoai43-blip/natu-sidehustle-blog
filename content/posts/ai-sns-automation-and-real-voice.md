@@ -8,7 +8,7 @@ tags: ["Threads", "SNS自動化", "AI活用", "発信", "実践記録"]
 eyecatch: "/images/ai-sns-automation-and-real-voice.png"
 seoTitle: "AIでSNSを自動投稿している今、最後は自分の本音で人とつながりたい"
 seoDescription: "AIを使ってSNS投稿を自動化する今、投稿を続けながらも大切にしたいのは、自分の体験から出る本音とコメントでのやり取りです。"
-published: false
+published: true
 featured: false
 experience: true
 ---
