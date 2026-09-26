@@ -1,0 +1,23 @@
+@media (max-width: 480px) {
+  .nav {
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding: 12px 0;
+    gap: 9px;
+  }
+
+  .nav nav {
+    width: 100%;
+    justify-content: space-between;
+    gap: 0;
+    overflow: visible;
+  }
+
+  .nav nav a {
+    font-size: 0.74rem;
+  }
+
+  .brand {
+    font-size: 0.96rem;
+  }
+}
