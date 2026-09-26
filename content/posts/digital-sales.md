@@ -1,12 +1,12 @@
 ---
-title: "デジタル販売を始める前に整理していること"
+title: "デジタル販売の始め方を考える｜BOOTH・Gumroadで副業を始める前の準備"
 slug: "preparing-digital-sales"
 publishedAt: "2026-08-19"
 updatedAt: "2026-08-19"
 category: "デジタル販売"
 tags: ["BOOTH", "Gumroad", "デジタル販売"]
 eyecatch: ""
-seoTitle: "デジタル販売を始める前に整理していること"
+seoTitle: "デジタル販売の始め方を考える｜BOOTH・Gumroadで副業を始める前の準備"
 seoDescription: "BOOTHやGumroadでのデジタル販売を考える前に、扱う内容と導線を整理した記録です。"
 published: true
 featured: false

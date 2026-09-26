@@ -1,12 +1,12 @@
 ---
-title: "Threadsを始めて分かったこと"
+title: "Threadsを始めて分かったこと｜副業SNS発信を続けて感じたこと"
 slug: "what-i-learned-from-threads"
 publishedAt: "2026-08-20"
 updatedAt: "2026-08-20"
 category: "SNS・集客"
 tags: ["Threads", "SNS", "発信"]
 eyecatch: ""
-seoTitle: "Threadsを始めて分かったこと｜副業発信の実践記録"
+seoTitle: "Threadsを始めて分かったこと｜副業SNS発信を続けて感じたこと"
 seoDescription: "Threadsで副業の発信を始め、実際に感じたことや次に試したいことを記録します。"
 published: true
 featured: true

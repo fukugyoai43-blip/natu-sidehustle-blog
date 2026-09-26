@@ -1,12 +1,12 @@
 ---
-title: "自分用のフリマ出品アプリを作ったけれど、今は使っていない理由"
+title: "AIでフリマ出品アプリを作ったが使わない理由｜ChatGPTでのメルカリ出品"
 slug: "made-but-dont-use-reselling-app"
 publishedAt: "2026-09-01"
 updatedAt: "2026-09-01"
 category: "AI活用"
 tags: ["AI活用", "ChatGPT", "Codex", "フリマアプリ", "実践記録"]
 eyecatch: ""
-seoTitle: "自分用のフリマ出品アプリを作ったけれど、今は使っていない理由"
+seoTitle: "AIでフリマ出品アプリを作ったが使わない理由｜ChatGPTでのメルカリ出品"
 seoDescription: "AIを使って、商品写真から説明文や相場を考える自分用のフリマ出品アプリを作りました。でも今はChatGPTの方が合っています。作ってみて分かったことを正直に書きます。"
 published: true
 featured: false

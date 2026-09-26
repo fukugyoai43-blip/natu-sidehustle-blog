@@ -1,12 +1,12 @@
 ---
-title: "メルカリをやりながら、なぜeBayにも挑戦してみたいと思ったのか"
+title: "eBay副業を始めたい理由｜メルカリ物販から海外販売に挑戦する記録"
 slug: "why-i-am-trying-ebay"
 publishedAt: "2026-08-31"
 updatedAt: "2026-08-31"
 category: "物販"
 tags: ["eBay", "海外販売", "物販", "AI活用", "実践記録"]
 eyecatch: ""
-seoTitle: "メルカリをやりながら、なぜeBayにも挑戦してみたいと思ったのか"
+seoTitle: "eBay副業を始めたい理由｜メルカリ物販から海外販売に挑戦する記録"
 seoDescription: "日本では価値が低く見える商品でも、海外では需要があるかもしれない。eBayに興味を持ったきっかけ、AIを使って準備していること、今は保留中の現状を実体験として書きます。"
 published: true
 featured: false

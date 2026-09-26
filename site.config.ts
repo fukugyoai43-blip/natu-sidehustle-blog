@@ -1,6 +1,7 @@
 export const siteConfig = {
   name: "natuの副業記録",
-  description: "AI・物販・SNS・デジタル販売。40代から実際に試している副業を、成功も失敗もそのまま記録しています。",
+  searchTitle: "natuの副業記録｜AI×副業・SNS自動化の実践ブログ",
+  description: "AI×副業・SNS自動化・物販・デジタル販売を、40代から実際に試す実践ブログ。成功も失敗も隠さず記録しています。",
   // 独自ドメインを使う場合は、Vercelの NEXT_PUBLIC_SITE_URL で上書きできます。
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://natu-sidehustle-blog.vercel.app",
   author: "natu",

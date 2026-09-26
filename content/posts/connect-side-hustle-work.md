@@ -1,12 +1,12 @@
 ---
-title: "副業を増やすより、今やっていることを一つにつなげたい"
+title: "AI副業の発信を一つにつなげたい｜SNS・ブログ・デジタル販売の実践記録"
 slug: "connect-side-hustle-work"
 publishedAt: "2026-08-29"
 updatedAt: "2026-08-29"
 category: "運営記録"
 tags: ["副業", "AI活用", "デジタル販売", "SNS集客", "実践記録"]
 eyecatch: ""
-seoTitle: "副業を増やすより、今やっていることを一つにつなげたい"
+seoTitle: "AI副業の発信を一つにつなげたい｜SNS・ブログ・デジタル販売の実践記録"
 seoDescription: "AI、SNS、ブログ、note、デジタル販売を別々に頑張るのではなく、一つの流れにつなげたい。40代で副業を続ける中で考えている、これからの優先順位を書きます。"
 published: true
 featured: false
