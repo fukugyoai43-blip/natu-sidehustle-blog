@@ -26,6 +26,7 @@ export default function Home() {
   const socialLinks = [
     { label: "Threads", href: siteConfig.links.threads },
     { label: "X", href: siteConfig.links.x },
+    { label: "Instagram", href: siteConfig.links.instagram },
     { label: "note", href: siteConfig.links.note },
   ].filter((social) => social.href);
 
