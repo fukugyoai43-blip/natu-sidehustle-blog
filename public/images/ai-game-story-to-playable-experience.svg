@@ -1,0 +1,33 @@
+<svg width="1600" height="840" viewBox="0 0 1600 840" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="36" y1="0" x2="1558" y2="840" gradientUnits="userSpaceOnUse"><stop stop-color="#14213E"/><stop offset=".52" stop-color="#365A8A"/><stop offset="1" stop-color="#00A091"/></linearGradient>
+    <radialGradient id="shine" cx="0" cy="0" r="1" gradientTransform="translate(1370 128) rotate(136) scale(560 530)" gradientUnits="userSpaceOnUse"><stop stop-color="#B1FFF6" stop-opacity=".83"/><stop offset="1" stop-color="#B1FFF6" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="884" y="97" width="481" height="636" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="24" stdDeviation="27" flood-color="#05091A" flood-opacity=".48"/></filter>
+  </defs>
+  <rect width="1600" height="840" rx="48" fill="url(#bg)"/>
+  <rect width="1600" height="840" rx="48" fill="url(#shine)"/>
+  <circle cx="205" cy="120" r="195" fill="#98F8E9" fill-opacity=".1"/>
+  <circle cx="456" cy="825" r="294" fill="#A898FF" fill-opacity=".12"/>
+  <path d="M67 668C227 510 407 702 572 552C693 442 801 461 906 523" stroke="#B4FFF9" stroke-opacity=".42" stroke-width="3" stroke-dasharray="11 17"/>
+  <text x="104" y="158" fill="#ACFFF7" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="30" font-weight="700" letter-spacing="5">AI × GAME MAKING</text>
+  <text x="104" y="276" fill="#FFFFFF" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="65" font-weight="800">読む話から、</text>
+  <text x="104" y="362" fill="#FFFFFF" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="65" font-weight="800">もう一度遊びたくなる体験へ</text>
+  <text x="108" y="432" fill="#D7F6F2" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="33" font-weight="500">AIでゲームを作ってみて分かったこと</text>
+  <g filter="url(#shadow)">
+    <rect x="958" y="118" width="326" height="574" rx="40" fill="#08182D"/>
+    <rect x="975" y="136" width="292" height="538" rx="28" fill="#F9F7F0"/>
+    <rect x="1087" y="149" width="68" height="12" rx="6" fill="#203A4E"/>
+    <text x="1003" y="218" fill="#477D87" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="17" font-weight="700" letter-spacing="2">CHOICE 2 / 3</text>
+    <line x1="1002" y1="240" x2="1243" y2="240" stroke="#C6D3D1" stroke-width="2"/>
+    <text x="1004" y="302" fill="#273B49" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="25" font-weight="700">どう選ぶ？</text>
+    <rect x="1001" y="344" width="240" height="76" rx="7" fill="#EEF2F0" stroke="#99B6B0" stroke-width="2"/>
+    <text x="1021" y="379" fill="#2B5961" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="20" font-weight="700">正直に話す</text>
+    <text x="1021" y="405" fill="#4C6E73" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="16">今は隠す</text>
+    <rect x="1001" y="439" width="240" height="76" rx="7" fill="#EDF2F0" stroke="#99B6B0" stroke-width="2"/>
+    <text x="1021" y="474" fill="#2B5961" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="20" font-weight="700">確かめに行く</text>
+    <text x="1021" y="500" fill="#4C6E73" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="16">その場に残る</text>
+    <rect x="1001" y="559" width="164" height="48" rx="8" fill="#245E6A"/>
+    <text x="1030" y="591" fill="#FFFFFF" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="19" font-weight="700">結末を見る</text>
+  </g>
+  <g opacity=".95"><rect x="835" y="522" width="82" height="82" rx="25" fill="#7AF5E2" fill-opacity=".2" stroke="#B9FFF8" stroke-opacity=".72"/><path d="M860 563h32M876 547v32" stroke="#D4FFFA" stroke-width="5" stroke-linecap="round"/><rect x="762" y="624" width="65" height="65" rx="20" fill="#9A8FFF" fill-opacity=".27" stroke="#DDD9FF" stroke-opacity=".7"/><path d="m786 646 20 11-20 11v-22Z" fill="#F7F5FF"/></g>
+</svg>
