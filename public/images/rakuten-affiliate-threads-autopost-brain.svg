@@ -1,0 +1,32 @@
+<svg width="1600" height="840" viewBox="0 0 1600 840" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="63" y1="18" x2="1531" y2="824" gradientUnits="userSpaceOnUse"><stop stop-color="#152746"/><stop offset=".54" stop-color="#385A95"/><stop offset="1" stop-color="#00A18C"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1358 118) rotate(137) scale(556 520)" gradientUnits="userSpaceOnUse"><stop stop-color="#B7FFF7" stop-opacity=".8"/><stop offset="1" stop-color="#B7FFF7" stop-opacity="0"/></radialGradient>
+    <filter id="shadow" x="898" y="106" width="476" height="645" filterUnits="userSpaceOnUse"><feDropShadow dx="0" dy="25" stdDeviation="26" flood-color="#030919" flood-opacity=".5"/></filter>
+  </defs>
+  <rect width="1600" height="840" rx="48" fill="url(#bg)"/>
+  <rect width="1600" height="840" rx="48" fill="url(#glow)"/>
+  <circle cx="198" cy="136" r="205" fill="#9BEFE9" fill-opacity=".11"/>
+  <circle cx="486" cy="815" r="286" fill="#A495FF" fill-opacity=".1"/>
+  <path d="M65 672C216 527 399 705 574 556C692 455 799 462 907 525" stroke="#B8FFF7" stroke-width="3" stroke-opacity=".43" stroke-dasharray="11 17"/>
+  <text x="104" y="158" fill="#B2FFF7" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="30" font-weight="700" letter-spacing="5">RAKUTEN × THREADS</text>
+  <text x="104" y="276" fill="#FFFFFF" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="65" font-weight="800">投稿の負担を、</text>
+  <text x="104" y="362" fill="#FFFFFF" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="65" font-weight="800">仕組みで軽くする</text>
+  <text x="108" y="432" fill="#D9F7F3" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="33" font-weight="500">楽天アフィリエイト × Threads 自動投稿</text>
+  <g filter="url(#shadow)">
+    <rect x="968" y="122" width="310" height="570" rx="39" fill="#071A31"/>
+    <rect x="985" y="141" width="276" height="532" rx="27" fill="#F8F8F2"/>
+    <rect x="1089" y="154" width="68" height="12" rx="6" fill="#243C53"/>
+    <text x="1010" y="219" fill="#4E7E87" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="17" font-weight="700" letter-spacing="1.8">POST QUEUE</text>
+    <line x1="1008" y1="241" x2="1237" y2="241" stroke="#C6D5D1" stroke-width="2"/>
+    <rect x="1008" y="273" width="230" height="64" rx="8" fill="#E7F3F0"/>
+    <text x="1028" y="312" fill="#28606A" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="21" font-weight="700">確認済み 70件</text>
+    <rect x="1008" y="355" width="230" height="64" rx="8" fill="#EEF2F1"/>
+    <text x="1028" y="394" fill="#304F5E" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="21" font-weight="700">1日 10件ずつ</text>
+    <rect x="1008" y="437" width="230" height="64" rx="8" fill="#EEF2F1"/>
+    <text x="1028" y="476" fill="#304F5E" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="21" font-weight="700">PR表記・URL確認</text>
+    <rect x="1008" y="547" width="144" height="47" rx="8" fill="#235F6A"/>
+    <text x="1039" y="578" fill="#FFFFFF" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="18" font-weight="700">投稿予定</text>
+  </g>
+  <g opacity=".96"><rect x="844" y="524" width="82" height="82" rx="25" fill="#79F4E1" fill-opacity=".2" stroke="#B9FFF8" stroke-opacity=".7"/><path d="M869 565h32M885 549v32" stroke="#D7FFFA" stroke-width="5" stroke-linecap="round"/><rect x="770" y="625" width="65" height="65" rx="20" fill="#9B8FFF" fill-opacity=".28" stroke="#DDD9FF" stroke-opacity=".7"/><path d="m794 647 20 11-20 11v-22Z" fill="#F7F5FF"/></g>
+</svg>
