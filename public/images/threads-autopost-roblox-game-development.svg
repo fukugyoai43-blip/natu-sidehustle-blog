@@ -1,0 +1,31 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="40" x2="1130" y2="610" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E8F9F7"/>
+      <stop offset="0.5" stop-color="#EEF4FF"/>
+      <stop offset="1" stop-color="#FFF1DD"/>
+    </linearGradient>
+    <linearGradient id="card" x1="123" y1="114" x2="1084" y2="536" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12394A"/>
+      <stop offset="1" stop-color="#255D72"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="42" fill="url(#bg)"/>
+  <circle cx="1035" cy="109" r="135" fill="#89D9D0" fill-opacity="0.42"/>
+  <circle cx="115" cy="557" r="130" fill="#FFCE8E" fill-opacity="0.45"/>
+  <rect x="74" y="73" width="1052" height="484" rx="31" fill="url(#card)"/>
+  <rect x="118" y="117" width="204" height="48" rx="24" fill="#50D6C6"/>
+  <text x="143" y="149" fill="#12394A" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="24" font-weight="700">AI × 副業の実践記録</text>
+  <text x="118" y="253" fill="white" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="55" font-weight="700">Threads自動投稿を</text>
+  <text x="118" y="325" fill="white" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="55" font-weight="700">2アカウントで続けてみた</text>
+  <rect x="119" y="375" width="450" height="4" rx="2" fill="#50D6C6"/>
+  <text x="118" y="439" fill="#D9F8F3" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="29" font-weight="700">投稿を仕組みに任せて</text>
+  <text x="118" y="483" fill="#D9F8F3" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="29" font-weight="700">Robloxゲーム制作へ</text>
+  <rect x="808" y="183" width="224" height="258" rx="25" fill="white" fill-opacity="0.96"/>
+  <rect x="839" y="217" width="162" height="32" rx="10" fill="#D8F6F1"/>
+  <rect x="839" y="269" width="120" height="16" rx="8" fill="#9CCEC8"/>
+  <rect x="839" y="301" width="146" height="16" rx="8" fill="#C6DDD9"/>
+  <rect x="839" y="346" width="128" height="52" rx="14" fill="#50D6C6"/>
+  <path d="M881 372L906 387L881 402V372Z" fill="#12394A"/>
+  <text x="826" y="477" fill="#D9F8F3" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="20" font-weight="700">投稿 → つくる時間へ</text>
+</svg>
