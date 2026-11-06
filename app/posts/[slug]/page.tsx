@@ -6,6 +6,7 @@ import { getAllPosts, getPost, type Post } from "@/lib/posts";
 import { dateText, PostCard } from "@/components/post-card";
 import { headingId, Markdown } from "@/components/markdown";
 import { Comments } from "@/components/comments";
+import { ShareButtons } from "@/components/share-buttons";
 import { siteConfig } from "@/site.config";
 
 const articlePoints = (post: Post) => [
@@ -55,6 +56,7 @@ export default async function Article({ params }: { params: Promise<{ slug: stri
     {headings.length > 1 ? <nav className="article-toc" aria-label="目次"><p>目次</p><ol>{headings.map((heading) => <li key={heading.id}><a href={`#${heading.id}`}>{heading.title}</a></li>)}</ol></nav> : null}
 
     <Markdown content={post.content} />
+    <ShareButtons title={post.title} url={`${siteConfig.url}/posts/${post.slug}`} />
     <section className="related-posts" aria-labelledby="related-posts-heading"><div className="section-head"><div><p className="eyebrow">NEXT READS</p><h2 id="related-posts-heading">次に読む記事</h2></div><Link href="/posts">記事一覧へ →</Link></div><div className="post-grid">{relatedPosts.map((related) => <PostCard key={related.slug} post={related} />)}</div></section>
     <section className="comments-section" aria-labelledby="comments-heading"><p className="eyebrow">コメント</p><h2 id="comments-heading">この記事へのひとこと</h2><p>よかった点や改善のアイデアなど、気軽にコメントを残してください。</p><Comments /></section>
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />

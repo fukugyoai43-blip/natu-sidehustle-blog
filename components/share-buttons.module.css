@@ -1,0 +1,15 @@
+.panel{margin-top:58px;padding:28px;border:1px solid var(--line);border-radius:20px;background:linear-gradient(135deg,#f2f6ff,#f2fffd);box-shadow:0 14px 30px rgba(29,57,130,.07)}
+.eyebrow{font-size:.7rem;color:var(--accent);font-weight:900;letter-spacing:.14em;margin:0 0 12px}
+.title{font-size:1.35rem;line-height:1.35;margin:0 0 6px;letter-spacing:.02em}
+.description{margin:0;color:var(--muted);font-size:.92rem}
+.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}
+.button{display:inline-flex;align-items:center;justify-content:center;gap:7px;min-height:44px;padding:10px 16px;border-radius:999px;border:1px solid transparent;font:inherit;font-size:.88rem;font-weight:800;cursor:pointer;text-decoration:none;transition:transform .2s,box-shadow .2s}
+.button:hover{transform:translateY(-2px);box-shadow:0 8px 18px rgba(29,57,130,.16)}
+.threads{background:#161616;color:#fff}
+.x{background:#101725;color:#fff}
+.instagram{background:linear-gradient(135deg,#7c46d9,#e75083 52%,#f4a34d);color:#fff}
+.icon{font-size:1.05rem;line-height:1}
+.note,.message{font-size:.76rem;line-height:1.55}
+.note{margin:16px 0 0;color:var(--muted)}
+.message{min-height:1.55em;margin:5px 0 0;color:var(--accent);font-weight:700}
+@media(max-width:760px){.panel{margin-top:42px;padding:22px}.actions{display:grid;grid-template-columns:1fr}.button{width:100%}}
