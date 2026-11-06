@@ -25,11 +25,21 @@ export function generateMetadata({ params }: { params: Promise<{ slug: string }>
   return params.then(({ slug }) => {
     const post = getPost(slug);
     if (!post) return {};
+    const title = post.seoTitle || post.title;
+    const image = post.eyecatch
+      ? [{ url: post.eyecatch, width: 1672, height: 941, alt: post.title }]
+      : undefined;
     return {
-      title: post.seoTitle || post.title,
+      title,
       description: post.seoDescription,
       alternates: { canonical: `/posts/${post.slug}` },
-      openGraph: { type: "article", title: post.seoTitle || post.title, description: post.seoDescription, url: `/posts/${post.slug}`, publishedTime: post.publishedAt, modifiedTime: post.updatedAt, images: post.eyecatch ? [{ url: post.eyecatch, alt: post.title }] : undefined },
+      openGraph: { type: "article", title, description: post.seoDescription, url: `/posts/${post.slug}`, publishedTime: post.publishedAt, modifiedTime: post.updatedAt, images: image },
+      twitter: {
+        card: "summary_large_image",
+        title,
+        description: post.seoDescription,
+        images: image,
+      },
     };
   });
 }
